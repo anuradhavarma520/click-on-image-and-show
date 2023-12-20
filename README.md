@@ -1,0 +1,1 @@
+# click-on-image-and-show
